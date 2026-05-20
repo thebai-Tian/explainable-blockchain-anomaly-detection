@@ -1,5 +1,5 @@
 # Explainable Blockchain Anomaly Detection (PoC)
-A Proof-of-Concept on Distance-Based Rule Interpolation for Ethereum Transactions**
+A Proof-of-Concept on Distance-Based Rule Interpolation for Ethereum Transactions
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/Status-PoC%20Completed-brightgreen)
